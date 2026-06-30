@@ -112,6 +112,10 @@ Aplicação para controle de horas em projetos.
 
 <img width="1535" height="864" alt="image" src="https://github.com/user-attachments/assets/ea7fb04c-c591-4899-8766-cc36a080a43e" />
 
+## Portal de Aplicações - Versão 3 
+
+<img width="1537" height="823" alt="image" src="https://github.com/user-attachments/assets/6a3d1178-3020-45e0-ba5e-e8d2c0694baa" />
+
 
 ## Sistema de Apontamento
 
